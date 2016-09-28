@@ -26448,7 +26448,7 @@
 	  return React.createElement(
 	    'h3',
 	    null,
-	    'About Component'
+	    'welcome to about  page'
 	  );
 	};
 
